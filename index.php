@@ -1,4 +1,4 @@
-<?php
+THIS SHOULD BE A LINTER ERROR<?php
 session_start();
 
 // Rate limiting - max 10 requests per IP per minute
